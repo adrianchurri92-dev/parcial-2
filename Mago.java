@@ -1,7 +1,7 @@
-/**
- * Mago: ataca con hechizos (fuerza) y se defiende con un escudo mágico
- * que absorbe el 10% del daño recibido.
- */
+/** */
+ * //Mago: ataca con hechizos (fuerza) y se defiende con un escudo mágico
+ * //que absorbe el 10% del daño recibido.
+ ///
 public class Mago extends Criatura {
 
     private String hechizos; // hechizo que utiliza el mago
